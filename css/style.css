@@ -1,0 +1,13 @@
+/* Base page styles */
+body {
+    margin: 0;
+    padding: 16px;
+    background: #111;
+    color: #eee;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+}
+
+a {
+    color: #6cf;
+}
